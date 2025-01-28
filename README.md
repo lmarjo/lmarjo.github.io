@@ -6,7 +6,7 @@
     <title>Skibidi</title>
 </head>
 <body>
-    <h1>Willkommen auf meiner Webseite!</h1>
-    <p>Dies ist ein einfacher HTML-Code, der einen Text anzeigt.</p>
+    <h1>Skibidi</h1>
+    <p>im a sigma male</p>
 </body>
 </html>
