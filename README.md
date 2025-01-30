@@ -14,7 +14,7 @@
 <body>
     <h1>OFFICAL LECK WEBISTE</h1>
     <p>ones a wise man sayed "leck mech fett"</p>
-    <p>if you want to support the creator just dowload the visit his github page :)</p>
+    <p>heres something CRAZY</p>
     <img src="https://www.nydailynews.com/wp-content/uploads/migration/2022/09/10/4AD47W5BJZHGTLXJ52M2FVPNYU.jpg" alt="alternatetext">
 </body>
 </html>
