@@ -33,7 +33,7 @@
     <img src="https://www.nydailynews.com/wp-content/uploads/migration/2022/09/10/4AD47W5BJZHGTLXJ52M2FVPNYU.jpg" alt="alternatetext">
     <h1>you know what else is still MASSIVE and CRAZY?</h1>
     <div class="image-container">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxuutX8HduKl2eiBeqSWo1VdXcOS9UxzsKhQ&s" alt="alternatetext">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solid_white_bordered.svg/2048px-Solid_white_bordered.svg.png">
         <img src="https://ih1.redbubble.net/image.5412923386.0462/flat,750x,075,f-pad,750x1000,f8f8f8.webp" alt="alternatetext">
     </div>
 </body>
