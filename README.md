@@ -15,8 +15,9 @@
     <h1>OFFICAL LECK WEBISTE</h1>
     <p>ones a wise man sayed "leck mech fett"</p>
     <h1>heres something CRAZY</h1>
+    <h1>this was a MASSIVE attack </h1>
     <img src="https://www.nydailynews.com/wp-content/uploads/migration/2022/09/10/4AD47W5BJZHGTLXJ52M2FVPNYU.jpg" alt="alternatetext">
-    <h1>you know what else is CRAZY?</h1>
+    <h1>you know what else is still MASSIVE and CRAZY?</h1>
     <img src="https://ih1.redbubble.net/image.5412923386.0462/flat,750x,075,f-pad,750x1000,f8f8f8.webp" alt="alternatetext">
 </body>
 </html>
