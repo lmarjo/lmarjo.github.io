@@ -9,6 +9,22 @@
             text-align: center;
             padding: 20px;
         }
+
+        .image-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .image-container img:nth-child(2) {
+            display: none;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .image-container:hover img:nth-child(2) {
+            display: block;
+        }
     </style>
 </head>
 <body>
@@ -16,6 +32,9 @@
     <h1>this was a MASSIVE attack </h1>
     <img src="https://www.nydailynews.com/wp-content/uploads/migration/2022/09/10/4AD47W5BJZHGTLXJ52M2FVPNYU.jpg" alt="alternatetext">
     <h1>you know what else is still MASSIVE and CRAZY?</h1>
-    <img src="https://ih1.redbubble.net/image.5412923386.0462/flat,750x,075,f-pad,750x1000,f8f8f8.webp" alt="alternatetext">
+    <div class="image-container">
+        <img src="https://ih1.redbubble.net/image.5412923386.0462/flat,750x,075,f-pad,750x1000,f8f8f8.webp" alt="alternatetext">
+        <img src="https://www.nydailynews.com/wp-content/uploads/migration/2022/09/10/4AD47W5BJZHGTLXJ52M2FVPNYU.jpg" alt="alternatetext">
+    </div>
 </body>
 </html>
