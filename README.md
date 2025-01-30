@@ -12,8 +12,6 @@
     </style>
 </head>
 <body>
-    <h1>OFFICAL LECK WEBISTE</h1>
-    <p>ones a wise man sayed "leck mech fett"</p>
     <h1>heres something CRAZY</h1>
     <h1>this was a MASSIVE attack </h1>
     <img src="https://www.nydailynews.com/wp-content/uploads/migration/2022/09/10/4AD47W5BJZHGTLXJ52M2FVPNYU.jpg" alt="alternatetext">
