@@ -12,7 +12,8 @@
     </style>
 </head>
 <body>
-    <h1>offical leck website</h1>
+    <h1>OFFICAL LECK WEBISTE</h1>
     <p>ones a wise man sayed "leck mech fett"</p>
+    <p>if you want to support the creator just dowload the visit his github page :)</p>
 </body>
 </html>
